@@ -111,6 +111,10 @@ html {
     height: 100vh;
     /* background-color: blue; */
 }
+.icon {
+    color: #6195ff;
+    margin-bottom: 10px;
+}
 .welcome h1 {
     margin:auto;
     font-size: 100px;
