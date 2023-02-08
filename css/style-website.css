@@ -616,7 +616,7 @@ margin-top: 10px;
 .awards {
     position: relative;
   
-    background-image: url(../images/eee.jpeg);
+    background-image: url(../Images/eee.jpeg);
     background-attachment: fixed;
     background-size: cover;
     height: 350px;
@@ -836,7 +836,7 @@ margin-top: 10px;
 .ground {
     position: relative;
   
-    background-image: url(../images/55.jpeg);
+    background-image: url(../Images/55.jpeg);
     background-attachment: fixed;
     background-size: cover;
     height: 350px;  
